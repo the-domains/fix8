@@ -1,0 +1,28 @@
+name: fix8
+favicon: null
+layout_spectrum: 0.487078313017264
+typography_spectrum: 0.42068321350961924
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.030598848592489958
+  lightness: 0.15912818536162376
+  saturation: 0.5836758932564408
+  rhythmicContrast: 0.3355509287212044
+purpose: []
